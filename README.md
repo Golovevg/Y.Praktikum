@@ -158,6 +158,6 @@ Network supermarket "Bread and salt" introduces a computer vision system for pro
 ### Final project
 A "No loss of connection.com" telecom operator wants to learn how to predict client churn. If it turns out that the user plans to leave, he will be offered promotional codes and special conditions. The operator's team has collected personal data about some clients, information about their tariffs and contracts.
 
-### Functions
+## Functions
 * Тут собраны мои функции для ускорения типовых операций
 * Here are my functions for speeding up routine operations

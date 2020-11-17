@@ -88,7 +88,6 @@ Suppose you work at GlavRosGosNeft production company. We need to decide where t
 
 ### Сборный проект
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
-### Y.Praktikum
 
 ### Common project
 Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
@@ -116,3 +115,45 @@ Car sales service with mileage "Not broken, not painted" develops an application
 
 ### Time series
 "Cool Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
+
+## Project_12
+
+### Машинное обучение для текстов
+Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
+
+Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок.
+
+### Machine learning for texts 
+Online store "Wikishop" launches a new service. Now users can edit and supplement product descriptions, as on wikis. That is, customers offer their edits and comment on changes made by others. The store needs a tool that will search for toxic comments and send them to moderation.
+
+Teach the model to categorize comments into positive and negative. At your disposal is a data set with markings on the toxicity of edits.
+
+## Project_13
+
+### Извлечение данных
+Вы аналитик российской авиакомпании F9, выполняющей внутренние пассажирские перевозки. Важно понять предпочтения пользователей, покупающих билеты на разные направления. Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали.
+
+### Data retrieval
+You are an analyst of the Russian airline F9, which performs domestic passenger transportation. It is important to understand the preferences of users who buy tickets to different destinations. You will have to study the database and analyze passenger demand for flights to cities where major cultural festivals are held.
+
+## Project_14
+
+### Компьютерное зрение
+Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
+
+* Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
+* Контролировать добросовестность кассиров при продаже алкоголя.
+
+### Computer vision
+Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
+
+* Analyze purchases and offer products that may interest customers of this age group;
+* Monitor the integrity of cashiers when selling alcohol.
+
+## Project_final
+
+### Выпускной проект
+Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
+
+### Final project
+A "No loss of connection.com" telecom operator wants to learn how to predict client churn. If it turns out that the user plans to leave, he will be offered promotional codes and special conditions. The operator's team has collected personal data about some clients, information about their tariffs and contracts.

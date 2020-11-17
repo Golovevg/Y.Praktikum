@@ -150,7 +150,7 @@ Network supermarket "Bread and salt" introduces a computer vision system for pro
 * Analyze purchases and offer products that may interest customers of this age group;
 * Monitor the integrity of cashiers when selling alcohol.
 
-## Project_final
+## Final_project
 
 ### Выпускной проект
 Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.

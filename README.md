@@ -160,4 +160,4 @@ A "No loss of connection.com" telecom operator wants to learn how to predict cli
 
 ### Functions
 * Тут собраны мои функции для ускорения типовых операций
-* Here are my functions for speeding up ordinar operations
+* Here are my functions for speeding up routine operations

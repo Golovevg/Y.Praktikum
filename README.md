@@ -1,7 +1,9 @@
 Hi, i'm Data Scientis 
 
 Евгений Голованов /  Eugene Golovanov
-Telegramm: @EugeneGolovanov
+
+Telegramm: t.me/EugeneGolovanov
+
 Email: evsgolovanov@gmail.com
 
 ## Data Science

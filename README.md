@@ -30,8 +30,8 @@ Here you'll find my projects from the "Data Science Specialist" training program
   - Выпускной проект /Final project  - *Final_Project*
 
 Краткое описание проектов и ссылки:
-| |Название|Краткое описание|Инструменты|
-|--|----|----|----|-------|
+| |Название|Краткое описание|Инструменты|Описание|
+|--|----|----|----|----|
 |1.| [Исследование надежности заемщиков](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_01.ipynb) | Оценка влияния различных характеристик заемщиков на факт погашения кредита в срок| `pandas`, `numpy`,`pymystem3`, `nltk.stem` | |
 |2.| [Исследование объявлений о продаже квартир](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_02.ipynb) | Анализ признаков влияющих на стоимость квартир в регионе| `pandas`, `numpy`, `matplotlib`, `seaborn`| |
 |3.| [Анализ тарифов мобильного оператора](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_03.ipynb) | Анализ статистики использования услуг мобильного оператора клиентами с целью определения приоритетного тарифа для фирмы| `pandas`, `numpy`, `matplotlib`, `scipy` | |

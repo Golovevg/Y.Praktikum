@@ -1,6 +1,6 @@
 ## Hi, i'm Data Scientis 
 
-## Eugene Golovanov / Евгений Голованов
+### Eugene Golovanov / Евгений Голованов
 
 Telegramm: t.me/EugeneGolovanov
 
@@ -12,9 +12,9 @@ Here you'll find my projects from the "Data Science Specialist" training program
 
 #### Содержание: / Content:
 
-  - 1._ Предобработка данных / Data Processing - *Project_01*
-  - 2. Исследовательский анализ данных / Exploratory data analysis - *Project_02*
-  - 3. Статистический анализ данных / Statistical analysis of data - *Project_03*
+  - 1.  Предобработка данных / Data Processing - *Project_01*
+  - 2.  Исследовательский анализ данных / Exploratory data analysis - *Project_02*
+  - 3.  Статистический анализ данных / Statistical analysis of data - *Project_03*
   - 4. Сборный проект / Common project - *Project_04*
   - 5. Введение в машинное обучение / Introduction to machine learning  - *Project_05*
   - 6. Обучение с учителем / Supervised learning  - *Project_06*

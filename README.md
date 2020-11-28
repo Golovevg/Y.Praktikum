@@ -12,7 +12,7 @@ Here you'll find my projects from the "Data Science Specialist" training program
 
 #### Содержание: / Content:
 
-  - 1 Предобработка данных / Data Processing - *Project_01*
+  - 1._ Предобработка данных / Data Processing - *Project_01*
   - 2. Исследовательский анализ данных / Exploratory data analysis - *Project_02*
   - 3. Статистический анализ данных / Statistical analysis of data - *Project_03*
   - 4. Сборный проект / Common project - *Project_04*

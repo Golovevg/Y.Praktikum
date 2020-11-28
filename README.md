@@ -32,7 +32,7 @@ Here you'll find my projects from the "Data Science Specialist" training program
 Краткое описание проектов и ссылки:
 | |Название|Краткое описание|Инструменты|Описание|
 |--|----|----|----|----|
-|1.| [Исследование надежности заемщиков](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_01.ipynb) | Оценка влияния различных характеристик заемщиков на факт погашения кредита в срок| `pandas`, `numpy`,`pymystem3`, `nltk.stem` | |
+|1.| [Исследование надежности заемщиков](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_01.ipynb) | Оценка влияния различных характеристик заемщиков на факт погашения кредита в срок| `pandas`, `numpy`,`pymystem3`, `nltk.stem` | Исходя из данных по клиентам, была проведена аналитика важности признаков для определения категорий наиболее надежных и ненадежных клиентов. Составлены портреты идеального и нежелательного заемщика|
 |2.| [Исследование объявлений о продаже квартир](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_02.ipynb) | Анализ признаков влияющих на стоимость квартир в регионе| `pandas`, `numpy`, `matplotlib`, `seaborn`| |
 |3.| [Анализ тарифов мобильного оператора](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_03.ipynb) | Анализ статистики использования услуг мобильного оператора клиентами с целью определения приоритетного тарифа для фирмы| `pandas`, `numpy`, `matplotlib`, `scipy` | |
 |4.| [Анализ игровой индустрии](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_04.ipynb) | Исследование продаж компьютерных игр в различных регионах и определение факторов влияющие на успешность продаж| `pandas`, `numpy`, `scipy`, `seaborn`, `matplotlib` | |

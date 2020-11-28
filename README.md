@@ -13,21 +13,22 @@ Here you'll find my projects from the "Data Science Specialist" training program
 
 #### Содержание: / Content:
 
-  - Предобработка данных / Data Processing - *Project_01*
-  - Исследовательский анализ данных / Exploratory data analysis - *Project_02*
-  - Статистический анализ данных / Statistical analysis of data - *Project_03*
-  - Сборный проект / Common project - *Project_04*
-  - Введение в машинное обучение / Introduction to machine learning  - *Project_05*
-  - Обучение с учителем / Supervised learning  - *Project_06*
-  - Машинное обучение в бизнесе / Machine learning in business  - *Project_07*
-  - Сборный проект / Common project  - *Project_08*
-  - Линейная алгебра / Linear algebra  - *Project_09*
-  - Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*
-  - Временные ряды / Time series  - *Project_11*
-  - Машинное обучение для текстов / Machine learning for texts  - *Project_12*
-  - Извлечение данных / Data retrieval - *Project_13*
-  - Компьютерное зрение / Computer vision  - *Project_14*
-  - Выпускной проект /Final project  - *Final_Project*
+  - 1. Предобработка данных / Data Processing - *Project_01*
+  - 2. Исследовательский анализ данных / Exploratory data analysis - *Project_02*
+  - 3. Статистический анализ данных / Statistical analysis of data - *Project_03*
+  - 4. Сборный проект / Common project - *Project_04*
+  - 5. Введение в машинное обучение / Introduction to machine learning  - *Project_05*
+  - 6. Обучение с учителем / Supervised learning  - *Project_06*
+  - 7. Машинное обучение в бизнесе / Machine learning in business  - *Project_07*
+  - 8. Сборный проект / Common project  - *Project_08*
+  - 9. Линейная алгебра / Linear algebra  - *Project_09*
+  - 10. Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*
+  - 11. Временные ряды / Time series  - *Project_11*
+  - 12. Машинное обучение для текстов / Machine learning for texts  - *Project_12*
+  - 13. Извлечение данных / Data retrieval - *Project_13*
+  - 14. Компьютерное зрение / Computer vision  - *Project_14*
+  - 15. Выпускной проект /Final project  - *Final_Project*
+  - 16. Часто применяемые функции /Common functions  - *Final_Project*
 
 Краткое описание проектов и ссылки:
 | |Название|Краткое описание|Инструменты|Описание|
@@ -46,6 +47,6 @@ Here you'll find my projects from the "Data Science Specialist" training program
 |12.| [Классификация токсичных комментариев](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_12.ipynb) | Модель классификации токсичных комментариев| `pandas`, `numpy`, `torch`, `transformers`, `sklearn`, `pymystem3` | |
 |13.| [SQL. Пргнозирование спроса на авиабилеты](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_13.ipynb) | Статистический анализ спроса на авиабилеты, при проведении музыкальных фестивалей| `pandas`, `numpy`, `squarify`, `seaborn`, `matplotlib` |
 |14.| [CV.Определение возраста по фотографии](https://github.com/Golovevg/Y.Praktikum/blob/master/Project_14.ipynb) | Модель предсказания возраста по фотографии| `pandas`, `numpy`, `tensorflow`, `matplotlib` | |
-|Final_ Project| [Прогнозирование оттока клиентов оператора связи](https://github.com/Golovevg/Y.Praktikum/blob/master/Final_project.ipynb) | Модель оттока клиентов оператора связи| `pandas`, `numpy`, `seaborn`, `matplotlib`, `calendar`, `datetime`, `sklearn`, `catboost`, `lightgbm`|
-|Routine_functions| [Часто применяемые функции](https://github.com/Golovevg/Y.Praktikum/blob/master/Routine_functions.ipynb) | Модель оттока клиентов оператора связи| `разделение выборок`, `апсемплинг`, `даунсемплинг`, `гистограммы и диаграммы`, `открытие XLS вкладок в отдельные таблицы`, `кроссвалидация`, `NaN в столбцах с процентами`, `обнаружение столбцов с малым количеством данных`| |
+|15.| [Прогнозирование оттока клиентов оператора связи](https://github.com/Golovevg/Y.Praktikum/blob/master/Final_project.ipynb) | Модель оттока клиентов оператора связи| `pandas`, `numpy`, `seaborn`, `matplotlib`, `calendar`, `datetime`, `sklearn`, `catboost`, `lightgbm`|
+|16.| [Часто применяемые функции](https://github.com/Golovevg/Y.Praktikum/blob/master/Routine_functions.ipynb) | Модель оттока клиентов оператора связи| `разделение выборок`, `апсемплинг`, `даунсемплинг`, `гистограммы и диаграммы`, `открытие XLS вкладок в отдельные таблицы`, `кроссвалидация`, `NaN в столбцах с процентами`, `обнаружение столбцов с малым количеством данных`| |
 

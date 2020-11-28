@@ -13,21 +13,21 @@ Here you'll find my projects from the "Data Science Specialist" training program
 #### Содержание: / Content:
 
   1. -  Предобработка данных / Data Processing - *Project_01*
-  - 2. Исследовательский анализ данных / Exploratory data analysis - *Project_02*
-  - 3. Статистический анализ данных / Statistical analysis of data - *Project_03*
-  - 4. Сборный проект / Common project - *Project_04*
-  - 5. Введение в машинное обучение / Introduction to machine learning  - *Project_05*
-  - 6. Обучение с учителем / Supervised learning  - *Project_06*
-  - 7. Машинное обучение в бизнесе / Machine learning in business  - *Project_07*
-  - 8. Сборный проект / Common project  - *Project_08*
-  - 9. Линейная алгебра / Linear algebra  - *Project_09*
-  - 10. Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*
-  - 11. Временные ряды / Time series  - *Project_11*
-  - 12. Машинное обучение для текстов / Machine learning for texts  - *Project_12*
-  - 13. Извлечение данных / Data retrieval - *Project_13*
-  - 14. Компьютерное зрение / Computer vision  - *Project_14*
-  - 15. Выпускной проект /Final project  - *Final_Project*
-  - 16. Часто применяемые функции /Common functions  - *Routine_functions*
+  2. - Исследовательский анализ данных / Exploratory data analysis - *Project_02*
+  3. - Статистический анализ данных / Statistical analysis of data - *Project_03*
+  4. - Сборный проект / Common project - *Project_04*
+  5. - Введение в машинное обучение / Introduction to machine learning  - *Project_05*
+  6. - Обучение с учителем / Supervised learning  - *Project_06*
+  7. - Машинное обучение в бизнесе / Machine learning in business  - *Project_07*
+  8. - Сборный проект / Common project  - *Project_08*
+  9. - Линейная алгебра / Linear algebra  - *Project_09*
+  10. - Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*
+  11. - Временные ряды / Time series  - *Project_11*
+  12. - Машинное обучение для текстов / Machine learning for texts  - *Project_12*
+  13. - Извлечение данных / Data retrieval - *Project_13*
+  14. - Компьютерное зрение / Computer vision  - *Project_14*
+  15. - Выпускной проект /Final project  - *Final_Project*
+  16. - Часто применяемые функции /Common functions  - *Routine_functions*
 
 Краткое описание проектов и ссылки:
 | |Название|Краткое описание|Инструменты|Описание|

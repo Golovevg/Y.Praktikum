@@ -2,7 +2,7 @@
 
 ### Eugene Golovanov / Евгений Голованов
 
-Telegramm: t.me/EugeneGolovanov
+Telegram: t.me/EugeneGolovanov
 
 Email: evsgolovanov@gmail.com
 

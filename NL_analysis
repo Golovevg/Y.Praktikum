@@ -1,0 +1,51 @@
+# Import parser
+from bs4 import BeautifulSoup
+from bs4.element import Comment
+import urllib.request
+
+# Define element (creating filter)
+def tag_visible(element):
+    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+        return False
+    if isinstance(element, Comment):
+        return False
+    return True
+
+# Creating text
+def text_from_html(body):
+    soup = BeautifulSoup(body, 'html.parser')
+    texts = soup.findAll(text=True)
+    visible_texts = filter(tag_visible, texts)  
+    return u" ".join(t.strip() for t in visible_texts)
+
+#Input your URL. I used a fresh the BBC article.
+url = 'https://www.bbc.com/news/world-asia-58380791'
+html = urllib.request.urlopen(url).read()
+text = text_from_html(html)
+
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+doc = nlp(text)
+
+propn = [token.lemma_ for token in doc if token.pos_ == "PROPN"]
+num = [token.lemma_ for token in doc if token.pos_ == "NUM"]
+
+
+from collections import Counter
+
+count_propn = dict(Counter(propn))
+count_num = dict(Counter(num))
+
+def dic_html (dic):
+    name = str()    
+    for key in list(dic.keys()):
+        gfg_num = pd.DataFrame({'Object': key, 
+                    '': ['was found'],
+                    'Times': dic[key]
+                    })
+        name += gfg_num.to_html()
+    return name
+
+html_propn = dic_html(count_propn)
+html_num = dic_html(count_num)
